@@ -20,7 +20,7 @@ create an empty website and then clone **Bear Cub** into the themes directory as
 a [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules):
 
 ```sh
-git submodule add https://github.com/clente/hugo-bearcub themes/hugo-bearcub
+git submodule add https://github.com/dasmikko/hugo-bearcub themes/hugo-bearcub
 ```
 
 To finish off, append a line to the site configuration file:
