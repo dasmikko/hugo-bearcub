@@ -77,6 +77,17 @@ img {
   max-width: 100%;
 }
 
+figure.square img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+figure.aspect-video img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+
 code {
   padding: 2px 5px;
   color: #f8f8f2;
